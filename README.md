@@ -14,12 +14,12 @@
 
 
 <details>
-<summary>Task 1</summary>
+<summary>Task 2</summary>
 <p>
 
 - ✔ [Calculator](https://n-bhuvanesh.github.io/Tic-Tac-Toe/
 )
-- ✔ [Source](
+- ✔ [Source](https://github.com/N-BHUVANESH/Tic-Tac-Toe.git
 )  
 
 </p></details>
