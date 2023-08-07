@@ -10,3 +10,16 @@
 )  
 
 </p></details>
+
+
+
+<details>
+<summary>Task 1</summary>
+<p>
+
+- ✔ [Calculator](https://n-bhuvanesh.github.io/Tic-Tac-Toe/
+)
+- ✔ [Source](
+)  
+
+</p></details>
