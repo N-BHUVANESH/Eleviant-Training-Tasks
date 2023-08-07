@@ -23,3 +23,17 @@
 )  
 
 </p></details>
+
+
+
+
+<details>
+<summary>Task 3</summary>
+<p>
+
+- ✔ [Chess](https://n-bhuvanesh.github.io/Tic-Tac-Toe/
+)
+- ✔ [Source](https://github.com/N-BHUVANESH/Chess.git
+)  
+
+</p></details>
