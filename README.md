@@ -17,7 +17,7 @@
 <summary>Task 2</summary>
 <p>
 
-- ✔ [Calculator](https://n-bhuvanesh.github.io/Tic-Tac-Toe/
+- ✔ [Tic-Tac-Toe](https://n-bhuvanesh.github.io/Tic-Tac-Toe/
 )
 - ✔ [Source](https://github.com/N-BHUVANESH/Tic-Tac-Toe.git
 )  
