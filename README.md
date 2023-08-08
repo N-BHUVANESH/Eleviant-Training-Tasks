@@ -31,7 +31,7 @@
 <summary>Task 3</summary>
 <p>
 
-- ✔ [Chess](https://n-bhuvanesh.github.io/Tic-Tac-Toe/
+- ✔ [Chess](https://n-bhuvanesh.github.io/Chess/
 )
 - ✔ [Source](https://github.com/N-BHUVANESH/Chess.git
 )  
