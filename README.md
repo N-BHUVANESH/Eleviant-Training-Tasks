@@ -50,9 +50,6 @@
 
 </p></details>
 
-https://n-bhuvanesh.github.io/Text-to-Speech/
-https://github.com/N-BHUVANESH/Text-to-Speech
-
 
 <details>
 <summary>Task 5</summary>
