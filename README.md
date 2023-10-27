@@ -43,9 +43,9 @@
 <summary>Task 4</summary>
 <p>
 
-- ✔ [Age Calculator](https://n-bhuvanesh.github.io/Chess/
+- ✔ [Age Calculator](https://n-bhuvanesh.github.io/Age-Calculator/
 )
-- ✔ [Source](https://github.com/N-BHUVANESH/Chess.git
+- ✔ [Source](https://github.com/N-BHUVANESH/Age-Calculator
 )  
 
 </p></details>
