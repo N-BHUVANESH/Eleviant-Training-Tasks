@@ -50,3 +50,17 @@
 
 </p></details>
 
+https://n-bhuvanesh.github.io/Text-to-Speech/
+https://github.com/N-BHUVANESH/Text-to-Speech
+
+
+<details>
+<summary>Task 5</summary>
+<p>
+
+- ✔ [Text to Speech](https://n-bhuvanesh.github.io/Text-to-Speech/
+)
+- ✔ [Source](https://github.com/N-BHUVANESH/Text-to-Speech
+)  
+
+</p></details>
